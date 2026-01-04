@@ -1,6 +1,6 @@
 # Sushanth V Rao
 
-Aspiring Software Engineer | Computer Science Student  
+Aspiring Software Engineer | Computer Science Student 
 Focused on building strong fundamentals through hands-on projects and problem solving.
 
 ---
@@ -15,8 +15,7 @@ My goal is to continuously improve my problem-solving ability while developing r
 
 ## Technical Skills
 
-- **Languages:** C, C++, Java  
-- **Core Concepts:** Data Structures & Algorithms, Operating Systems  
+- **Languages:** C, C++, Java, Python, HTML, CSS, JS    
 - **Development Tools:** Git, GitHub, GCC  
 - **Programming Style:** Modular, readable, and structured code
 
@@ -28,11 +27,10 @@ My goal is to continuously improve my problem-solving ability while developing r
   Console-based system implementing structured data handling, time-based logic, and modular design.
 
 - **TrackYourBucks**  
-  Expense tracking application focused on usability, clean UI, and maintainable backend logic.
+  Expense tracking application focused on usability, clean UI, and designed to help users record, manage, and analyze their daily spendings.
 
 - **ApexForge**
-  Personal goal-tracker helps users build consistency by tracking daily progress, visualizing goal completion,
-  and receiving personalized performance feedback.
+  Personal goal-tracker helps users build consistency by tracking daily progress, visualizing goal completion, and receiving personalized performance feedback.
 
 
 ## Currently Learning
