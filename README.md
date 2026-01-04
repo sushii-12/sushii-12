@@ -1,6 +1,6 @@
 # Sushanth V Rao
 
-Aspiring Software Engineer | Computer Science Student 
+Aspiring Software Engineer | Computer Science Student  
 Focused on building strong fundamentals through hands-on projects and problem solving.
 
 ---
@@ -9,53 +9,53 @@ Focused on building strong fundamentals through hands-on projects and problem so
 
 I am a computer science student with a strong interest in core programming, data structures, and system-level concepts. I enjoy building practical projects that emphasize clarity, correctness, and clean design rather than unnecessary complexity.
 
-My goal is to continuously improve my problem-solving ability while developing reliable and well-documented software.
+My objective is to continuously strengthen my problem-solving skills while developing reliable, well-documented, and maintainable software.
 
 ---
 
 ## Technical Skills
 
-- **Languages:** C, C++, Java, Python, HTML, CSS, JS
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-- **Development Tools:** Git, GitHub, GCC  
-- **Programming Style:** Modular, readable, and structured code
+- **Languages:** C, C++, Java, Python, HTML, CSS, JavaScript  
+- **Development Tools:** Git, GitHub, GCC, Visual Studio Code 
+- **Programming Approach:** Modular design, readable code, and structured logic
 
 ---
 
 ## Projects
 
 - **Smart Car Parking Management System (C)**  
-  Console-based system implementing structured data handling, time-based logic, and modular design.
+  Console-based application implementing structured data handling, time-based billing logic, and modular system design.
 
 - **TrackYourBucks**  
-  Expense tracking application focused on usability, clean UI, and designed to help users record, manage, and analyze their daily spendings.
+  Personal expense tracking application designed to help users record, manage, and analyze daily spending with clarity and simplicity.
 
-- **ApexForge**
-  Personal goal-tracker helps users build consistency by tracking daily progress, visualizing goal completion, and receiving personalized performance feedback.
+- **ApexForge**  
+  Goal-tracking application that helps users build consistency by tracking daily progress, visualizing goal completion, and providing personalized performance feedback.
 
+---
 
 ## Currently Learning
 
-- Data Structures & Algorithms  
-- Low-level and system programming concepts  
-- Software design and coding practices
-- OOP concepts 
+- Data Structures and Algorithms  
+- Low-level system programming concepts  
+- Object-Oriented Programming principles  
+- Software design and best coding practices
 
 ---
 
 ## GitHub Activity
 
-This profile serves as a living record of my learning journey, experiments, and completed projects.  
-I value consistency, clarity, and incremental improvement.
+This profile serves as a record of my learning journey, experiments, and completed projects.  
+I value consistency, clarity, and continuous improvement in both learning and development.
 
 ---
 
 ## Contact
 
 - GitHub: https://github.com/sushii-12
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
+- LinkedIn: https://www.linkedin.com/in/sushanth-v-rao-59366932a/
+
 ---
 
 *Thank you for visiting my profile.*
+
