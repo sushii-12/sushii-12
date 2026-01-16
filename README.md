@@ -41,7 +41,7 @@ My objective is to continuously strengthen my problem-solving skills while devel
 - Data Structures and Algorithms  
 - Low-level system programming concepts  
 - Object-Oriented Programming principles  
-- Software design and best coding practices
+- Pursuing a virtual Generative AI internship, focusing on applied AI concepts.
 
 ---
 
