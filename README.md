@@ -15,7 +15,9 @@ My objective is to continuously strengthen my problem-solving skills while devel
 
 ## Technical Skills
 
-- **Languages:** C, C++, Java, Python, HTML, CSS, JavaScript  
+- **Languages:** C, C++, Java, Python, HTML, CSS, JavaScript
+   Strong programming fundamentals with hands-on experience in Python, Java, and C.
+   Familiar with frontend basics using HTML, CSS, and JavaScript.
 - **Development Tools:** Git, GitHub, GCC, Visual Studio Code 
 - **Programming Approach:** Modular design, readable code, and structured logic
 
