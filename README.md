@@ -21,7 +21,7 @@ and other AI technologies.
 
 - 🤖 Exploring **AI Engineering, Generative AI, and LLM applications**
 - 💻 Building projects with **Python and modern development tools**
-- 🧠 Strengthening my foundations in **DSA, OOP, and system-level concepts**
+- 🧠 Strengthening my foundations in **DSA, AI, and system-level concepts**
 - 🏆 Participating in hackathons and developing real-world solutions
 - 🎯 Focused on writing clean, maintainable, and useful software
 
@@ -150,11 +150,10 @@ mental health assessment using facial, vocal, and conversational signals.
 
 ## 📚 Currently Learning
 
-- Data Structures & Algorithms
-- Object-Oriented Programming and system-level concepts
-- Generative AI and LLM-powered applications
-- Prompt engineering and AI integration
-- Backend development and API design
+- Data Structures & Algorithms — Problem-solving with Python
+- Generative AI & LLMs — Building AI-powered applications
+- Python for AI Development — Libraries, model integration, and AI workflows
+- Backend Development — REST APIs, authentication, and database integration
 
 ---
 
