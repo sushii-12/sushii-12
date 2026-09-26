@@ -47,10 +47,10 @@ Innovation Campus (SIC)**.
 ### 🤖 AI & Data
 
 <p>
-  <img src="https://img.shields.io/badge/Generative%20AI-Applications-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/LLMs-Integration-00A67E?style=for-the-badge" alt="Large Language Models" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/LLMs-00A67E?style=for-the-badge" alt="Large Language Models" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
 </p>
 
 ### 🗄️ Databases
@@ -161,29 +161,11 @@ mental health assessment using facial, vocal, and conversational signals.
 ## 📈 GitHub Activity
 
 <div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=sushii-12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  width="55%"
-  alt=""
-/>
-
-<br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushii-12&layout=compact&theme=tokyonight&hide_border=true"
-  width="40%"
-  alt=""
-/>
-
-<br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=sushii-12&theme=tokyonight&hide_border=true"
-  width="55%"
-  alt=""
-/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=sushii-12&theme=tokyonight&hide_border=true"
+    width="50%"
+    alt="GitHub contribution streak"
+  />
 </div>
 
 ---
