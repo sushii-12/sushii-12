@@ -4,7 +4,7 @@
 
 ### AI Engineering • Software Development • Core Computer Science
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Building+AI-powered+Applications;Exploring+LLMs+%26+Applied+AI;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Building+AI-powered+Applications;Exploring+LLMs+%26+Applied+AI;Learning+by+Building" alt="Typing SVG" />
 
 </div>
 
@@ -21,7 +21,7 @@ and other AI technologies.
 
 - 🤖 Exploring **AI Engineering, Generative AI, and LLM applications**
 - 💻 Building projects with **Python and modern development tools**
-- 🧠 Strengthening my foundations in **DSA, AI and system-level concepts**
+- 🧠 Strengthening my foundations in **DSA, OOP, and system-level concepts**
 - 🏆 Participating in hackathons and developing real-world solutions
 - 🎯 Focused on writing clean, maintainable, and useful software
 
@@ -42,17 +42,21 @@ Innovation Campus (SIC)**.
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,vscode" alt="FastAPI, Flask, Git, GitHub, VS Code" />
-  <a href="https://antigravity.google/" title="Google Antigravity">
-    <img src="https://img.shields.io/badge/Antigravity-IDE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
-  </a>
 </p>
 
 ### 🤖 AI & Data
 
 <p>
-  <img src="https://img.shields.io/badge/Generative%20AI-Applications-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI Applications" />
-  <img src="https://img.shields.io/badge/LLM-Integration-00A67E?style=for-the-badge" alt="LLM Integration" />
-  <img src="https://img.shields.io/badge/Computer%20Science-DSA%20%26%20OOP-007ACC?style=for-the-badge" alt="DSA and OOP" />
+  <img src="https://img.shields.io/badge/Generative%20AI-Applications-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/LLMs-Integration-00A67E?style=for-the-badge" alt="Large Language Models" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite" alt="PostgreSQL and SQLite" />
 </p>
 
 ---
@@ -158,19 +162,27 @@ mental health assessment using facial, vocal, and conversational signals.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sushii-12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-     alt=""
-     width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushii-12&layout=compact&theme=tokyonight&hide_border=true"
-     alt=""
-     width="48%" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=sushii-12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  width="55%"
+  alt=""
+/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=sushii-12&theme=tokyonight&hide_border=true"
-     alt=""
-     width="70%" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushii-12&layout=compact&theme=tokyonight&hide_border=true"
+  width="40%"
+  alt=""
+/>
+
+<br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=sushii-12&theme=tokyonight&hide_border=true"
+  width="55%"
+  alt=""
+/>
 
 </div>
 
@@ -178,18 +190,12 @@ mental health assessment using facial, vocal, and conversational signals.
 
 ## 🤝 Let's Connect
 
+<div align="center"><a href="https://github.com/sushii-12"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/></a><a href="https://www.linkedin.com/in/sushanth-v-rao-59366932a/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/></a></div>
+
+<br/>
+
 <div align="center">
 
-<a href="https://github.com/sushii-12">
-  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sushanth-v-rao-59366932a/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
-</a>
-
-<br/><br/>
-
-### 💻 Build. Learn. Improve. Repeat. 🚀
+### Engineering ideas into useful software.
 
 </div>
